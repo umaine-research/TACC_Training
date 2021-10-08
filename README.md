@@ -1,6 +1,10 @@
 # Training Documentation
 
 This repository is intended for distribution of guidelines and training content developed for computing and HPC needs at the University of Maine. The current content is focused on training with HPC, with a particular focus on platforms such as TACC and OSC.
+<br />
+<br />
+
+- [HPC at Texas Advanced Computing Center](https://github.com/umaine-research/Training_Documentation/blob/main/HPCatTACC.html)
 
 <br />
 <br />
