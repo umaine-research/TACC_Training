@@ -1,20 +1,13 @@
----
-title: 'HPC at TACC'
-author: L.Jackson
----
+
  Welcome to the Maine-eDNA Training Content
  
 ---------------------------------------------------
 # High Performance Computing  at Texas Advanced Computing Center
 <br />
 
-:::warning
-For Maine-eDNA researchers, access the [internal project website](https://sites.google.com/maine.edu/maine-edna/home?authuser=0) or the [Maine-eDNA homepage](https://umaine.edu/edna/) for additional details and information.
-:::
+
+>For Maine-eDNA researchers, access the [internal project website](https://sites.google.com/maine.edu/maine-edna/home?authuser=0) or the [Maine-eDNA homepage](https://umaine.edu/edna/) for additional details and information. 
 ---------------------------------------------------
-
-[TOC]
-
 
 ## Account Setup
 
