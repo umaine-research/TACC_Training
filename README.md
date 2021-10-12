@@ -5,7 +5,7 @@ This repository is intended for distribution of guidelines and training content 
 <br />
 
 
- - <a href="https://github.com/umaine-research/Training_Documentation/blob/main/HPCatTACC.html" title="HPC at Texas Advanced Computing Center">HPC at Texas Advanced Computing Center</a>
+ - <a href="http://htmlpreview.github.com/?https://github.com/umaine-research/Training_Documentation/blob/main/HPCatTACC.html" title="HPC at Texas Advanced Computing Center">HPC at Texas Advanced Computing Center</a>
 
 <br />
 <br />
