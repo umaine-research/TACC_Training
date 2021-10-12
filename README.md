@@ -6,6 +6,10 @@ This repository is intended for distribution of guidelines and training content 
 
 
  - <a href="https://htmlpreview.github.io/?https://github.com/umaine-research/Training_Documentation/blob/main/HPCatTACC.html" title="HPC at Texas Advanced Computing Center">HPC at Texas Advanced Computing Center</a>
+   - Overview of the Bash Shell (Linux)
+   - How to connect to Stampede2 Server
+   - Handling Data on HPC
+   - Submitting Jobs
 
 <br />
 <br />
