@@ -1,6 +1,6 @@
 # Training Documentation
 
-This repository is intended for distribution of guidelines and training content developed for computing and HPC needs at the University of Maine. Content is focused on training with HPC, with a particular focus on platforms such as TACC and OSC.
+This repository is intended for distribution of guidelines and training content developed for computing and HPC needs at the University of Maine. Content is focused on training with HPC at TACC.
 <br />
 <br />
 
